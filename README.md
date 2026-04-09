@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -147,6 +148,12 @@
       color: var(--danger);
       font-size: 0.8rem;
     }
+    .update-note {
+      margin-top: 10px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      font-style: italic;
+    }
   </style>
 </head>
 <body>
@@ -251,8 +258,13 @@
         <li>Gestion multi-boîtes mail</li>
         <li>Routage intelligent vers un humain si nécessaire</li>
       </ul>
-      <p class="danger">Lien Stripe Pro à ajouter.</p>
-      <a class="button secondary" href="https://buy.stripe.com/test_dRm8wRfhJ1Qq2ZWfRocV201">PRO AI</a>
+
+      <!-- 🔥 Lien Stripe Pro correctement ajouté -->
+      <a class="button" href="https://buy.stripe.com/test_dRm8wRfhJ1Qq2ZWfRocV201">Souscrire à Pro AI</a>
+
+      <p class="update-note">
+        Vous serez informé automatiquement des futures mises à jour et améliorations du service.
+      </p>
     </div>
 
   </section>
