@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -253,7 +252,7 @@
         <li>Routage intelligent vers un humain si nécessaire</li>
       </ul>
       <p class="danger">Lien Stripe Pro à ajouter.</p>
-      <a class="button secondary" href="#">Prochainement disponible</a>
+      <a class="button secondary" href="https://buy.stripe.com/test_dRm8wRfhJ1Qq2ZWfRocV201">PRO AI</a>
     </div>
 
   </section>
@@ -262,7 +261,7 @@
   <section class="card contact">
     <p>Pour une démonstration ou un accompagnement personnalisé :</p>
     <p><strong>Email :</strong> aaxeldiomande@gmail.com</p>
-    <p><strong>Téléphone :</strong> +33 7 51 27 02 43</p>
+    <p><strong>Téléphone :</strong> +33 7 45 26 49 78</p>
     <p><strong>Téléphone :</strong> +33 6 98 66 16 59</p>
   </section>
 
