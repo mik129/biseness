@@ -1,13 +1,13 @@
-<div style="padding:25px; border-radius:12px; background:linear-gradient(135deg,#b3e5ff,#7ccaff,#4dafff); color:#0a1a2b;">
+<div style="padding:25px; border-radius:12px; background:linear-gradient(135deg,#007bff,#3399ff,#66b3ff); color:white;">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Eddy%20Digital-Services%20Professionnels-1e90ff?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eddy%20Digital-Services%20Professionnels-005eff?style=for-the-badge&logo=windows&logoColor=white"/>
 
-# 🚀 <span style="color:#005eff;">Services Numériques – Eddy</span>
+# 🚀 <span style="color:#ffffff;">Services Numériques – Eddy</span>
 ### _Solutions digitales, informatiques et automatisées_
 
-<p style="color:#0a1a2b; font-size:14px;">
+<p style="color:#eaf6ff; font-size:14px;">
 Votre partenaire pour la création de sites, l’automatisation, la sécurité et le support informatique.
 </p>
 
@@ -15,9 +15,9 @@ Votre partenaire pour la création de sites, l’automatisation, la sécurité e
 
 ---
 
-# 🧩 <span style="color:#005eff;">Création de sites web + Automatisation</span>
+# 🌐 <span style="color:#ffffff;">Création de sites web + Automatisation</span>
 
-<div style="background:#e6f4ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
 
 Je conçois des sites modernes, performants et entièrement personnalisés, avec automatisation intégrée :
 
@@ -33,9 +33,9 @@ Idéal pour entreprises, indépendants, associations et projets personnels.
 
 ---
 
-# 🖥️ <span style="color:#005eff;">Hébergement & Gestion de sites</span>
+# 🖥️ <span style="color:#ffffff;">Hébergement & Gestion de sites</span>
 
-<div style="background:#e6f4ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
 
 - Mise en ligne de votre site  
 - Maintenance technique  
@@ -46,9 +46,9 @@ Idéal pour entreprises, indépendants, associations et projets personnels.
 
 ---
 
-# 🔐 <span style="color:#005eff;">Sécurisation de comptes personnels</span>
+# 🔐 <span style="color:#ffffff;">Sécurisation de comptes personnels</span>
 
-<div style="background:#e6f4ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
 
 Je vous aide à protéger vos comptes contre les risques :
 
@@ -61,9 +61,9 @@ Je vous aide à protéger vos comptes contre les risques :
 
 ---
 
-# 🛠️ <span style="color:#005eff;">Support IT / Assistance informatique</span>
+# 🛠️ <span style="color:#ffffff;">Support IT / Assistance informatique</span>
 
-<div style="background:#e6f4ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
 
 - Dépannage PC / Mac  
 - Installation de logiciels  
@@ -76,9 +76,9 @@ Service rapide et fiable.
 
 ---
 
-# 🔑 <span style="color:#005eff;">Récupération d’accès (procédures officielles)</span>
+# 🔑 <span style="color:#ffffff;">Récupération d’accès (procédures officielles)</span>
 
-<div style="background:#e6f4ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
 
 Vous avez perdu l’accès à un compte ?
 
@@ -92,9 +92,9 @@ Je vous accompagne dans les démarches **officielles et légales** :
 
 ---
 
-# ⚙️ <span style="color:#005eff;">Services informatiques sur demande</span>
+# ⚙️ <span style="color:#ffffff;">Services informatiques sur demande</span>
 
-<div style="background:#e6f4ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
 
 - Installation réseau  
 - Configuration d’appareils  
@@ -108,7 +108,7 @@ Je vous accompagne dans les démarches **officielles et légales** :
 
 <div align="center">
 
-# 📞 <span style="color:#005eff;">Contact</span>
+# 📞 <span style="color:#ffffff;">Contact</span>
 
 📧 **Email :** aaxeldiomande@gmail.com  
 📱 **Téléphone :** +33 7 45 26 49 78  
