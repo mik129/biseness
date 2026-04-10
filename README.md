@@ -3,38 +3,29 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Services IT Premium</title>
+<title>IT Premium - Services</title>
 <style>
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #0f172a;
+    background: #020617;
     color: white;
 }
-header {
-    background: linear-gradient(90deg, #0f172a, #1e293b);
-    padding: 20px 50px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+section {
+    padding: 80px 20px;
+    max-width: 1200px;
+    margin: auto;
 }
-header h1 {
-    color: #38bdf8;
-}
-nav a {
-    color: white;
-    margin-left: 20px;
-    text-decoration: none;
-    font-weight: 500;
+h1, h2, h3 {
+    text-align: center;
 }
 .hero {
     text-align: center;
-    padding: 100px 20px;
-    background: radial-gradient(circle, #1e293b, #020617);
+    padding-top: 120px;
 }
-.hero h2 {
-    font-size: 48px;
-    margin-bottom: 20px;
+.hero h1 {
+    font-size: 50px;
+    color: #38bdf8;
 }
 .hero p {
     font-size: 20px;
@@ -46,25 +37,26 @@ nav a {
     background: #38bdf8;
     color: black;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     font-size: 18px;
     cursor: pointer;
 }
-.services {
+.grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    padding: 50px;
+    gap: 25px;
 }
 .card {
-    background: #1e293b;
-    padding: 25px;
-    border-radius: 15px;
+    background: rgba(30,41,59,0.7);
+    backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 20px;
     transition: 0.3s;
+    border: 1px solid rgba(255,255,255,0.05);
 }
 .card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.6);
 }
 .card h3 {
     color: #38bdf8;
@@ -72,62 +64,75 @@ nav a {
 .card p {
     color: #cbd5f5;
 }
+.contact {
+    text-align: center;
+    background: linear-gradient(180deg, #020617, #0f172a);
+    padding: 80px 20px;
+}
+.contact h2 {
+    color: #38bdf8;
+}
+.contact p {
+    font-size: 18px;
+    margin: 10px 0;
+}
 footer {
     text-align: center;
-    padding: 30px;
-    background: #020617;
+    padding: 20px;
     color: #64748b;
 }
 </style>
 </head>
 <body>
-<header>
-    <h1>IT Premium</h1>
-    <nav>
-        <a href="#">Accueil</a>
-        <a href="#services">Services</a>
-        <a href="#contact">Contact</a>
-    </nav>
-</header>
 
 <section class="hero">
-    <h2>Solutions IT & Cybersécurité haut de gamme</h2>
-    <p>Sites web, automatisation, sécurité et assistance informatique</p>
-    <button class="btn">Demander un devis</button>
+    <h1>Services IT & Cybersécurité Premium</h1>
+    <p>Développez, sécurisez et automatisez votre environnement numérique avec un expert</p>
+    <button class="btn">Contact rapide</button>
 </section>
 
-<section id="services" class="services">
+<section>
+    <h2>Ce que je propose</h2>
+    <div class="grid">
 
-<div class="card">
-<h3>Création de sites web</h3>
-<p>Sites modernes, rapides et adaptés mobile avec automatisation, paiements et tableaux de bord.</p>
-</div>
+        <div class="card">
+            <h3>Création de sites web & automatisation</h3>
+            <p>Sites modernes, rapides et optimisés mobile. Intégration de formulaires, paiements, bases de données et automatisations intelligentes.</p>
+        </div>
 
-<div class="card">
-<h3>Hébergement & gestion</h3>
-<p>Mise en ligne, maintenance, sauvegardes et optimisation des performances.</p>
-</div>
+        <div class="card">
+            <h3>Hébergement & gestion</h3>
+            <p>Mise en ligne, maintenance, sauvegardes sécurisées et optimisation des performances pour garantir un site toujours disponible.</p>
+        </div>
 
-<div class="card">
-<h3>Sécurité des comptes</h3>
-<p>Protection contre piratage, audit sécurité et authentification forte.</p>
-</div>
+        <div class="card">
+            <h3>Sécurisation de comptes</h3>
+            <p>Audit de sécurité, protection contre les intrusions et mise en place d’authentification forte pour sécuriser vos accès.</p>
+        </div>
 
-<div class="card">
-<h3>Support IT</h3>
-<p>Dépannage PC/Mac, installation de logiciels et optimisation système.</p>
-</div>
+        <div class="card">
+            <h3>Support IT</h3>
+            <p>Dépannage informatique, installation de logiciels, résolution de bugs et optimisation complète de vos appareils.</p>
+        </div>
 
-<div class="card">
-<h3>Récupération d'accès</h3>
-<p>Aide officielle pour récupérer vos comptes et sécurisation après récupération.</p>
-</div>
+        <div class="card">
+            <h3>Récupération d’accès</h3>
+            <p>Assistance officielle pour récupérer vos comptes en toute légalité avec sécurisation après récupération.</p>
+        </div>
 
-<div class="card">
-<h3>Services sur mesure</h3>
-<p>Réseau, automatisation, configuration et conseils technologiques.</p>
-</div>
+        <div class="card">
+            <h3>Services sur mesure</h3>
+            <p>Configuration réseau, automatisation, conseils technologiques et intégration d’outils adaptés à vos besoins.</p>
+        </div>
 
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>Email : aaxeldiomande@gmail.com</p>
+    <p>Téléphone : 0698661659</p>
+    <p>Disponible pour missions et projets</p>
 </section>
 
 <footer>
