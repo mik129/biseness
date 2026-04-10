@@ -1,90 +1,82 @@
-<div style="padding:25px; border-radius:12px; background:linear-gradient(135deg,#007bff,#3399ff,#66b3ff); color:white;">
+<div style="padding:25px; border-radius:12px; background:#0a1a3a; color:white;">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Eddy%20Digital-Services%20Professionnels-005eff?style=for-the-badge&logo=windows&logoColor=white"/>
+<div style="background:#1e3a8a; padding:6px 14px; border-radius:999px; display:inline-block; color:#93c5fd; font-size:12px; letter-spacing:1px; text-transform:uppercase;">
+Eddy Digital
+</div>
 
-# 🚀 <span style="color:#ffffff;">Services Numériques – Eddy</span>
+# 🚀 <span style="color:#60a5fa;">Services Numériques – Eddy</span>
 ### _Solutions digitales, informatiques et automatisées_
 
-<p style="color:#eaf6ff; font-size:14px;">
-Votre partenaire pour la création de sites, l’automatisation, la sécurité et le support informatique.
+<p style="color:#cbd5e1; font-size:14px;">
+Création de sites, automatisation, sécurité informatique et support technique.
 </p>
 
 </div>
 
 ---
 
-# 🌐 <span style="color:#ffffff;">Création de sites web + Automatisation</span>
+# 🌐 <span style="color:#93c5fd;">Création de sites web + Automatisation</span>
 
-<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
+<div style="background:#0f1e46; padding:20px; border-radius:16px; border:1px solid #1e3a8a; box-shadow:0 8px 20px rgba(0,0,0,0.4);">
 
-Je conçois des sites modernes, performants et entièrement personnalisés, avec automatisation intégrée :
+Je crée des sites modernes, rapides et automatisés :
 
-- Formulaires connectés (email, CRM, base de données)  
-- Réception automatique des messages  
+- Formulaires connectés  
+- Réception automatique des emails  
 - Notifications instantanées  
 - Intégration de paiements  
 - Hébergement disponible  
 
-Idéal pour entreprises, indépendants, associations et projets personnels.
+</div>
+
+---
+
+# 🖥️ <span style="color:#93c5fd;">Hébergement & Gestion de sites</span>
+
+<div style="background:#0f1e46; padding:20px; border-radius:16px; border:1px solid #1e3a8a; box-shadow:0 8px 20px rgba(0,0,0,0.4);">
+
+- Mise en ligne  
+- Maintenance  
+- Sauvegardes  
+- Optimisation de performance  
 
 </div>
 
 ---
 
-# 🖥️ <span style="color:#ffffff;">Hébergement & Gestion de sites</span>
+# 🔐 <span style="color:#93c5fd;">Sécurisation de comptes personnels</span>
 
-<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
-
-- Mise en ligne de votre site  
-- Maintenance technique  
-- Sauvegardes régulières  
-- Optimisation de vitesse et sécurité  
-
-</div>
-
----
-
-# 🔐 <span style="color:#ffffff;">Sécurisation de comptes personnels</span>
-
-<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
-
-Je vous aide à protéger vos comptes contre les risques :
+<div style="background:#0f1e46; padding:20px; border-radius:16px; border:1px solid #1e3a8a; box-shadow:0 8px 20px rgba(0,0,0,0.4);">
 
 - Analyse de sécurité  
-- Mise en place d’authentification forte  
-- Nettoyage après tentative d’intrusion  
+- Authentification forte  
+- Nettoyage après intrusion  
 - Conseils de protection  
 
 </div>
 
 ---
 
-# 🛠️ <span style="color:#ffffff;">Support IT / Assistance informatique</span>
+# 🛠️ <span style="color:#93c5fd;">Support IT / Assistance informatique</span>
 
-<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
+<div style="background:#0f1e46; padding:20px; border-radius:16px; border:1px solid #1e3a8a; box-shadow:0 8px 20px rgba(0,0,0,0.4);">
 
 - Dépannage PC / Mac  
 - Installation de logiciels  
 - Résolution de bugs  
 - Optimisation système  
 
-Service rapide et fiable.
-
 </div>
 
 ---
 
-# 🔑 <span style="color:#ffffff;">Récupération d’accès (procédures officielles)</span>
+# 🔑 <span style="color:#93c5fd;">Récupération d’accès (procédures officielles)</span>
 
-<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
+<div style="background:#0f1e46; padding:20px; border-radius:16px; border:1px solid #1e3a8a; box-shadow:0 8px 20px rgba(0,0,0,0.4);">
 
-Vous avez perdu l’accès à un compte ?
-
-Je vous accompagne dans les démarches **officielles et légales** :
-
-- Récupération d’accès Google, Microsoft, réseaux sociaux…  
+- Récupération Google, Microsoft, réseaux sociaux  
 - Assistance en cas d’oubli de mot de passe  
 - Sécurisation après récupération  
 
@@ -92,15 +84,14 @@ Je vous accompagne dans les démarches **officielles et légales** :
 
 ---
 
-# ⚙️ <span style="color:#ffffff;">Services informatiques sur demande</span>
+# ⚙️ <span style="color:#93c5fd;">Services informatiques sur demande</span>
 
-<div style="background:#e6f2ff; padding:20px; border-radius:12px; border:1px solid #b3d7ff; color:#003366;">
+<div style="background:#0f1e46; padding:20px; border-radius:16px; border:1px solid #1e3a8a; box-shadow:0 8px 20px rgba(0,0,0,0.4);">
 
 - Installation réseau  
 - Configuration d’appareils  
-- Automatisation de tâches  
+- Automatisation  
 - Conseils technologiques  
-- Intégration d’outils numériques  
 
 </div>
 
@@ -108,7 +99,7 @@ Je vous accompagne dans les démarches **officielles et légales** :
 
 <div align="center">
 
-# 📞 <span style="color:#ffffff;">Contact</span>
+# 📞 <span style="color:#60a5fa;">Contact</span>
 
 📧 **Email :** aaxeldiomande@gmail.com  
 📱 **Téléphone :** +33 7 45 26 49 78  
