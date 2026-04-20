@@ -131,7 +131,7 @@ footer {
 <section class="contact">
     <h2>Contact</h2>
     <p>Email : aaxeldiomande@gmail.com</p>
-    <p>Téléphone : 0698661659</p>
+    <p>Téléphone : +33 698661659</p>
     <p>Disponible pour missions et projets</p>
 </section>
 
